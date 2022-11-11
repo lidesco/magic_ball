@@ -1,6 +1,5 @@
 # **Description**
-______________________________
-
+___
 Online version of the world famous game "Magic Ball"
 
 Game's Wiki link: https://en.wikipedia.org/wiki/Magic_8_Ball
