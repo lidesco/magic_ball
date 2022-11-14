@@ -10,4 +10,6 @@ Game's Wiki link: https://en.wikipedia.org/wiki/Magic_8_Ball
 - Open the console and go to the directory with the game file
 - Enter
 
-```ruby magic_ball.rb```
+```
+ruby magic_ball.rb
+```
